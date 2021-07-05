@@ -49,7 +49,7 @@
     "web-console-reporter": "^1.0.0",
     "webpack": "^4.44.2",
     "webpack-cli": "^4.0.0",
-    "webpack-dev-middleware": "^4.0.0"
+    "webpack-dev-middleware": "^5.0.0"
   },
   "dependencies": {
     "@digabi/mathquill": "^0.10.5",
